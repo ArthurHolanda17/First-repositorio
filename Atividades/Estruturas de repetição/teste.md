@@ -1,1 +1,0 @@
-ALERTA, ISTO É UM TESTE.
